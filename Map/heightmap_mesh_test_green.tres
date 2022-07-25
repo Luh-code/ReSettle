@@ -1,0 +1,7 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dshq22lxn741r"]
+
+[resource]
+albedo_color = Color(0.203922, 0.54902, 0.192157, 1)
+metallic_specular = 0.0
+ao_on_uv2 = true
+heightmap_enabled = true
